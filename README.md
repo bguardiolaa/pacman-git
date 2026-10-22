@@ -4,4 +4,9 @@
 
 El jugador controla un personatge rodó i groc anomenat Pac-Man. L'objectiu principal és menjar-se tots els punts (anomenats Pac-dots) distribuïts al llarg d'un laberint tancat per poder passar al següent nivell.
 
+## Juga online
+
+Pots jugar a Pac-Man directament des del navegador:
+[Juga a Pac-Man](https://pacmangratis.net/)
+
 **Autor/a:** [Biel Guardiola](https://github.com/bguardiolaa/pacman-git)

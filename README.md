@@ -18,5 +18,6 @@ Pots jugar a Pac-Man directament des del navegador:
 ## Els fantasmes
 - [Blinky](blinky.md)
 - [Pinky](pinky.md)
+- [Inky](inky.md)
 
 **Autor/a:** [Biel Guardiola](https://github.com/bguardiolaa/pacman-git)

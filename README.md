@@ -14,6 +14,8 @@ Pots jugar a Pac-Man directament des del navegador:
 
 ![Captura de pantalla de Pac-Man](captura-pacman.png)
 
+## Els fantasmes
+- [Clyde](clyde.md)
 
 ## Els fantasmes
 - [Blinky](blinky.md)

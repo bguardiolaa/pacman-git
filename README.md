@@ -9,4 +9,10 @@ El jugador controla un personatge rodó i groc anomenat Pac-Man. L'objectiu prin
 Pots jugar a Pac-Man directament des del navegador:
 [Juga a Pac-Man](https://pacmangratis.net/)
 
+
+## Captura del joc
+
+![Captura de pantalla de Pac-Man](captura-pacman.png)
+
+
 **Autor/a:** [Biel Guardiola](https://github.com/bguardiolaa/pacman-git)
